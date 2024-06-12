@@ -44,7 +44,7 @@ dependencies:
   device_info_plus: ^9.0.2
   intl: '>=0.18.1 <0.20.0'
 
-  syncfusion_pdfviewer_platform_interface:
+  syncfusion_flutter_pdfviewer_platform_interface:
     path: ../syncfusion_flutter_pdfviewer_platform_interface
 
   syncfusion_pdfviewer_web:
